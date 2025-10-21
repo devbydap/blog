@@ -1,6 +1,6 @@
 ---
 title: Bienvenido a devbydap
-description: Aquí comparto lo que aprendo; desde cómo montar servidores, hasta cómo protegerlos.
+description:
 slug: hello-world
 date: 2025-10-20 00:00:00+0000
 image: cover.png
