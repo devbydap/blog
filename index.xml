@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>devbydap</title><link>https://dev.davidalvarezp.com/</link><description>Recent content on devbydap</description><generator>Hugo -- gohugo.io</generator><language>es-es</language><lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dev.davidalvarezp.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Bienvenido a devbydap</title><link>https://dev.davidalvarezp.com/p/hello-world/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://dev.davidalvarezp.com/p/hello-world/</guid><description>&lt;img src="https://dev.davidalvarezp.com/p/hello-world/cover.png" alt="Featured image of post Bienvenido a devbydap" /&gt;&lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
-&lt;p&gt;For more information about this theme, check the documentation: &lt;a class="link" href="https://stack.jimmycai.com/" target="_blank" rel="noopener"
-&gt;https://stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Want a site like this? Check out &lt;a class="link" href="https://github.com/TuNombre/hugo-theme-stack-starter" target="_blank" rel="noopener"
-&gt;hugo-theme-stack-stater&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>devbydap</title><link>https://dev.davidalvarezp.com/</link><description>Recent content on devbydap</description><generator>Hugo -- gohugo.io</generator><language>es-es</language><lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dev.davidalvarezp.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Bienvenido a devbydap</title><link>https://dev.davidalvarezp.com/p/hello-world/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://dev.davidalvarezp.com/p/hello-world/</guid><description>&lt;img src="https://dev.davidalvarezp.com/p/hello-world/cover.png" alt="Featured image of post Bienvenido a devbydap" /&gt;&lt;p&gt;#Bienvenido a devbydap.&lt;/p&gt;
+&lt;p&gt;##Soy sysadmin, desarrollador y fan de la ciberseguridad.&lt;/p&gt;
+&lt;p&gt;##Aquí comparto lo que aprendo: desde cómo montar servidores, hasta cómo protegerlos.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tutoriales&lt;/li&gt;
+&lt;li&gt;herramientas&lt;/li&gt;
+&lt;li&gt;automatización&lt;/li&gt;
+&lt;li&gt;consejos reales&lt;/li&gt;
+&lt;li&gt;cosas que no te cuentan en los cursos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Canal de youtube: &lt;a class="link" href="https://github.com/TuNombre/hugo-theme-stack-starter" target="_blank" rel="noopener"
+&gt;devbydap&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Photo by &lt;a class="link" href="https://unsplash.com/@pawel_czerwinski" target="_blank" rel="noopener"
-&gt;Pawel Czerwinski&lt;/a&gt; on &lt;a class="link" href="https://unsplash.com/" target="_blank" rel="noopener"
-&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Un proyecto de &lt;a class="link" href="https://davidalvarezp.com/" target="_blank" rel="noopener"
+&gt;davidalvarezp&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;</description></item><item><title>Archivo</title><link>https://dev.davidalvarezp.com/archivo/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://dev.davidalvarezp.com/archivo/</guid><description/></item><item><title>Guía Sintaxis Markdown</title><link>https://dev.davidalvarezp.com/p/gu%C3%ADa-sintaxis-markdown/</link><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><guid>https://dev.davidalvarezp.com/p/gu%C3%ADa-sintaxis-markdown/</guid><description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id="headings"&gt;Headings
 &lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
