@@ -1,7 +1,7 @@
 ---
 title: Bienvenido a devbydap
 description:
-slug: hello-world
+slug: welcome
 date: 2025-10-20 00:00:00+0000
 image: cover.png
 categories:
