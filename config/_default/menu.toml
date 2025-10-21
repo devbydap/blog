@@ -1,0 +1,32 @@
+# Configure main menu and social menu
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+#[[social]]
+#identifier = "github"
+#name = "GitHub"
+#url = "https://github.com/devbydap/"
+
+#[social.params]
+#icon = "brand-github"
+
+[[social]]
+identifier = "youtube"
+name = "YouTube"
+url = "https://youtube.com/"
+
+[social.params]
+icon = "brand-youtube"
+
+[[social]]
+identifier = "website"
+name = "Website"
+url = "https://davidalvarezp.com"
+
+[social.params]
+icon = "brand-website"

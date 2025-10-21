@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on devbydap</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on devbydap</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es-es</language><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archivo</title>
+        <link>http://localhost:1313/archivo/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/archivo/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Buscar</title>
+        <link>http://localhost:1313/buscar/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/buscar/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Enlaces</title>
+        <link>http://localhost:1313/enlaces/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/enlaces/</guid>
+        <description>&lt;!--
+To use this feature, add `links` section to frontmatter.
+
+This page&#39;s frontmatter:
+
+```yaml
+links:
+  - title: GitHub
+    description: GitHub is the world&#39;s largest software development platform.
+    website: https://github.com
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: TypeScript
+    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+    website: https://www.typescriptlang.org
+    image: ts-logo-128.jpg
+```
+
+`image` field accepts both local and external images.
+--&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
