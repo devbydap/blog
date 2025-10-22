@@ -1,15 +1,25 @@
 <img align="center" alt="banner" src="imgs/banner.png">
 <img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
 
-# Hugo Theme Stack Starter Template
+# Proyecto devbydap
+
+Este es el proyecto completo de HUGO que genera el blog [dev.davidalvarezp.com](https://dev.davidalvarezp.com)
+
+## ¿Qué es devbydap?
+
+devbydap es una iniciativa de [davidalvarezp](davidalvarezp.com)
+
+### Objetivos:
+- Distribucion de software
+- Implementación de nuevas tecnologías
 
 This is a quick start template for [Hugo theme Stack](https://github.com/TuNombre/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
 
 It comes with a basic theme structure and configuration. GitHub action has been set up to deploy the theme to a public GitHub page automatically. Also, there's a cron job to update the theme automatically everyday.
 
-## Get started
+## ¿Cómo contribuir?
 
-1. Click *Use this template*, and create your repository as `<username>.github.io` on GitHub.
+1. Contactar a [davidalvarezp](https://davidalvarezp.com)
 ![Step 1](https://user-images.githubusercontent.com/5889006/156916624-20b2a784-f3a9-4718-aa5f-ce2a436b241f.png)
 
 2. Once the repository is created, create a GitHub codespace associated with it.
